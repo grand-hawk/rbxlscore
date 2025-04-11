@@ -3,8 +3,10 @@
     "Kitty%s?Body%s?suit",
     "Duolingo%s?Body%s?suit",
     "kemono",
-    "ripped\n?jean",
-    "ripped\n?pants"
+    "ripped%s?jeans",
+    "ripped%s?pants",
+    "pants%s?ripped",
+    "jeabs%s?ripped"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
