@@ -2,11 +2,11 @@
   "whiteList": [
     "Kitty%s?Body%s?suit",
     "Duolingo%s?Body%s?suit",
-    "kemono",
     "ripped%s?jeans",
     "ripped%s?pants",
     "pants%s?ripped",
-    "jeabs%s?ripped"
+    "jeabs%s?ripped",
+    "abstract"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
