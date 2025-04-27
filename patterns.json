@@ -91,10 +91,10 @@
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Choker", "points": 1.5 },
 
-    { "pattern": "Pretty", "points": 1 },
-    { "pattern": "Woman", "points": 1 },
-    { "pattern": "Women", "points": 1 },
-    { "pattern": "Female", "points": 1 },
-    { "pattern": "Neko", "points": 1 }
+    { "pattern": "Pretty", "points": 0.5 },
+    { "pattern": "Woman", "points": 0.5 },
+    { "pattern": "Women", "points": 0.5 },
+    { "pattern": "Female", "points": 0.5 },
+    { "pattern": "Neko", "points": 0.5 }
   ]
 }
