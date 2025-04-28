@@ -58,6 +58,8 @@
     { "pattern": "621", "points": 5 },
     { "pattern": "Collar", "points": 5 },
     { "pattern": "Choker", "points": 5 },
+    { "pattern": "Bikini", "points": 5 },
+    { "pattern": "Bell", "points": 5 },
 
     { "pattern": "Bunny%s?suit", "points": 4 },
     { "pattern": "Fish%s?net", "points": 4 },
