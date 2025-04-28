@@ -35,6 +35,8 @@
     { "pattern": "Swim%s?suit", "points": 7 },
     { "pattern": "Body%s?suit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
+    { "pattern": "Collar", "points": 7 },
+    { "pattern": "Bell", "points": 7 },
 
     { "pattern": "Dolphin%s?Short", "points": 6 },
     { "pattern": "DCUA", "points": 6 },
@@ -56,10 +58,8 @@
     { "pattern": "Feminine%s?Boy", "points": 5 },
     { "pattern": "Bunny%s?Girl", "points": 5 },
     { "pattern": "621", "points": 5 },
-    { "pattern": "Collar", "points": 5 },
     { "pattern": "Choker", "points": 5 },
     { "pattern": "Bikini", "points": 5 },
-    { "pattern": "Bell", "points": 5 },
     { "pattern": "Shader", "points": 5 },
 
     { "pattern": "Bunny%s?suit", "points": 4 },
