@@ -35,14 +35,8 @@
     { "pattern": "Swim%s?suit", "points": 7 },
     { "pattern": "Body%s?suit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
-    
+
     { "pattern": "Dolphin%s?Short", "points": 6 },
-    { "pattern": "R6 Female", "points": 6 },
-    { "pattern": "Female R6", "points": 6 },
-    { "pattern": "R6 Women", "points": 6 },
-    { "pattern": "R6 Woman", "points": 6 },
-    { "pattern": "Women R6", "points": 6 },
-    { "pattern": "Woman R6", "points": 6 },
     { "pattern": "DCUA", "points": 6 },
     { "pattern": "jugs", "points": 6 },
 
@@ -82,6 +76,12 @@
     { "pattern": "Milks", "points": 3 },
     { "pattern": "Milkie", "points": 3 },
 
+    { "pattern": "R6 Female", "points": 2 },
+    { "pattern": "Female R6", "points": 2 },
+    { "pattern": "R6 Women", "points": 2 },
+    { "pattern": "R6 Woman", "points": 2 },
+    { "pattern": "Women R6", "points": 2 },
+    { "pattern": "Woman R6", "points": 2 },
     { "pattern": "Baddie", "points": 2 },
     { "pattern": "Bored", "points": 2 },
     { "pattern": "Crop", "points": 2 },
