@@ -6,7 +6,9 @@
     "ripped%s?pants",
     "pants%s?ripped",
     "jeabs%s?ripped",
-    "abstract"
+    "abstract",
+    "harness",
+    "paratrooper"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
