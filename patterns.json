@@ -62,7 +62,6 @@
 
     { "pattern": "Bunny%s?suit", "points": 4 },
     { "pattern": "Fish%s?net", "points": 4 },
-    { "pattern": "Pompous", "points": 4 },
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
     { "pattern": "Body%s?Pillow", "points": 4 },
@@ -86,6 +85,7 @@
     { "pattern": "Cropped", "points": 2 },
     { "pattern": "Love", "points": 2 },
     { "pattern": "Thigh", "points": 2 },
+    { "pattern": "Pompous", "points": 2 },
 
     { "pattern": "Collar", "points": 1.5 },
     { "pattern": "Blush", "points": 1.5 },
