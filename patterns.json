@@ -71,6 +71,7 @@
     { "pattern": "Choker", "points": 5 },
     { "pattern": "Bikini", "points": 5 },
     { "pattern": "Shader", "points": 5 },
+    { "pattern": "Shading", "points": 5 },
     { "pattern": "Collar", "points": 5 },
 
     { "pattern": "Bunny%s?suit", "points": 4 },
