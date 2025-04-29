@@ -108,6 +108,8 @@
     { "pattern": "Kemono", "points": 3 },
     { "pattern": "Barb", "points": 3 },
     { "pattern": "Barbie", "points": 3 },
+    { "pattern": "Curve", "points": 3 },
+    { "pattern": "Curvy", "points": 3 },
 
     { "pattern": "Baddie", "points": 2 },
     { "pattern": "Bored", "points": 2 },
