@@ -54,6 +54,7 @@
     { "pattern": "Milks", "points": 6 },
     { "pattern": "Milkie", "points": 6 },
     { "pattern": "Fish%s?net", "points": 6 },
+    { "pattern": "Stockings", "points": 6 },
     { "pattern": "Navel", "points": 6 },
 
     { "pattern": "Fangirling", "points": 5 },
