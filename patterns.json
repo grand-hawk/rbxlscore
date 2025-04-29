@@ -92,6 +92,8 @@
     { "pattern": "Cat%s?boy", "points": 3 },
     { "pattern": "Turtle%s?Neck", "points": 3 },
     { "pattern": "Smug", "points": 3 },
+    { "pattern": "Fur", "points": 3 },
+    { "pattern": "Kemono", "points": 3 },
 
     { "pattern": "Baddie", "points": 2 },
     { "pattern": "Bored", "points": 2 },
