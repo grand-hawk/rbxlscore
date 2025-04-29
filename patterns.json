@@ -108,7 +108,6 @@
 
     { "pattern": "Baddie", "points": 2 },
     { "pattern": "Bored", "points": 2 },
-    { "pattern": "Love", "points": 2 },
     { "pattern": "Pompous", "points": 2 },
     { "pattern": "Socks", "points": 2 },
     { "pattern": "Warmers", "points": 2 },
@@ -129,6 +128,7 @@
     { "pattern": "Woman R6", "points": 1.5 },
 
     { "pattern": "Heart", "points": 1 },
+    { "pattern": "Love", "points": 1 },
 
     { "pattern": "Pretty", "points": 0.5 },
     { "pattern": "Woman", "points": 0.5 },
