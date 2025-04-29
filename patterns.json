@@ -107,6 +107,7 @@
     { "pattern": "Thigh", "points": 4 },
     { "pattern": "Tongue", "points": 4 },
     { "pattern": "Buff", "points": 4 },
+    { "pattern": "Chibi%s?Face", "points": 4 },
 
     { "pattern": "Lovely", "points": 3 },
     { "pattern": "Ripped", "points": 3 },
