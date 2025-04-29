@@ -80,7 +80,6 @@
     { "pattern": "Fur%s?suit", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
     { "pattern": "Crop", "points": 4 },
-    { "pattern": "Cropped", "points": 4 },
     { "pattern": "abs", "points": 4 },
     { "pattern": "Bell[^y]", "points": 4 },
     { "pattern": "Thigh", "points": 4 },
