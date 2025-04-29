@@ -119,6 +119,7 @@
     { "pattern": "Pick me", "points": 2 },
     { "pattern": "Turtle%s?Neck", "points": 2 },
     { "pattern": "Fur", "points": 2 },
+    { "pattern": "Sergal", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
