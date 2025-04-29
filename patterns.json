@@ -100,6 +100,7 @@
 
     { "pattern": "Lovely", "points": 3 },
     { "pattern": "Ripped", "points": 3 },
+    { "pattern": "Scars", "points": 3 },
     { "pattern": "Maid", "points": 3 },
     { "pattern": "Cat%s?girl", "points": 3 },
     { "pattern": "Cat%s?boy", "points": 3 },
