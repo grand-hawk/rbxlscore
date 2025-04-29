@@ -101,6 +101,7 @@
     { "pattern": "Love", "points": 2 },
     { "pattern": "Pompous", "points": 2 },
     { "pattern": "Socks", "points": 2 },
+    { "pattern": "Warmers", "points": 2 },
     { "pattern": "Off%s?shoulder", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
