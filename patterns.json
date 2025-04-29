@@ -77,6 +77,7 @@
     { "pattern": "Shading", "points": 5 },
     { "pattern": "Collar", "points": 5 },
     { "pattern": "Belly", "points": 5 },
+    { "pattern": "Tummy", "points": 5 },
 
     { "pattern": "Bunny%s?suit", "points": 4 },
     { "pattern": "Crop%s?Top", "points": 4 },
