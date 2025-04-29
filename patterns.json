@@ -36,7 +36,6 @@
     { "pattern": "dirty pop", "points": 20 },
     { "pattern": "621", "points": 20 },
     { "pattern": "🔞", "points": 20 },
-    { "pattern": "🥵", "points": 20 },
     { "pattern": "🥛", "points": 20 },
 
     { "pattern": "Boykisser", "points": 15 },
@@ -52,6 +51,7 @@
 
     { "pattern": "String", "points": 9.5 },
     { "pattern": "Latex", "points": 9.5 },
+    { "pattern": "🥵", "points": 9.5 },
 
     { "pattern": "Mommy", "points": 8 },
     { "pattern": "Mummy", "points": 8 },
