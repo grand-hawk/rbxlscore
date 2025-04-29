@@ -48,6 +48,7 @@
     { "pattern": "Swim%s?suit", "points": 7 },
     { "pattern": "Body%s?suit", "points": 7 },
     { "pattern": "Bunny%s?suit", "points": 7 },
+    { "pattern": "Fur%s?suit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
     { "pattern": "Pacifier", "points": 7 },
     { "pattern": "Diaper", "points": 7 },
