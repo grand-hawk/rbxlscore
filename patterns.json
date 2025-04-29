@@ -22,7 +22,7 @@
     { "pattern": "Mime and Dash", "points": 20 },
     { "pattern": "Onyx Luxe Body%s?suit", "points": 20 },
     { "pattern": "Meru", "points": 20 },
-    { "pattern": "Goth girl companion", "points": 20 },
+    { "pattern": "girl companion", "points": 20 },
     { "pattern": "Bad%s?Dragon", "points": 20 },
     { "pattern": "621", "points": 20 },
     { "pattern": "🔞", "points": 20 },
@@ -159,9 +159,19 @@
     { "pattern": "Bunny", "points": 0.5 },
 
     {
-      "description": "NSFW crop tops",
+      "description": "Inappropiate crop tops",
       "points": 20,
       "specific": [17787238612]
+    },
+    {
+      "description": "Inappropiate companions",
+      "points": 20,
+      "specific": [
+        126268994913516, 99956462093021, 77736242668240, 93861628640815,
+        102686235137722, 92407941953530, 138463050179221, 96175704117932,
+        78040751853297, 131988022840450, 136972841956659, 79391968070670,
+        79391968070670, 76983254345484, 132645492417280, 127639244531985
+      ]
     }
   ]
 }
