@@ -68,7 +68,6 @@
     { "pattern": "Fur%s?suit", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
     { "pattern": "Body%s?Pillow", "points": 4 },
-    { "pattern": "Smug", "points": 4 },
     { "pattern": "abs", "points": 4 },
 
     { "pattern": "Lovely", "points": 3 },
@@ -82,6 +81,7 @@
     { "pattern": "Milks", "points": 3 },
     { "pattern": "Milkie", "points": 3 },
     { "pattern": "Belly", "points": 3 },
+    { "pattern": "Smug", "points": 3 },
 
     { "pattern": "R6 Female", "points": 2 },
     { "pattern": "Female R6", "points": 2 },
