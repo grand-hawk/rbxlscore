@@ -40,6 +40,9 @@
     { "pattern": "Dolphin%s?Short", "points": 6 },
     { "pattern": "DCUA", "points": 6 },
     { "pattern": "jugs", "points": 6 },
+    { "pattern": "Milker", "points": 6 },
+    { "pattern": "Milks", "points": 6 },
+    { "pattern": "Milkie", "points": 6 },
 
     { "pattern": "Pacifier", "points": 5 },
     { "pattern": "Diaper", "points": 5 },
@@ -78,9 +81,6 @@
     { "pattern": "Cat%s?girl", "points": 3 },
     { "pattern": "Cat%s?boy", "points": 3 },
     { "pattern": "Turtle%s?Neck", "points": 3 },
-    { "pattern": "Milker", "points": 3 },
-    { "pattern": "Milks", "points": 3 },
-    { "pattern": "Milkie", "points": 3 },
     { "pattern": "Belly", "points": 3 },
     { "pattern": "Smug", "points": 3 },
 
