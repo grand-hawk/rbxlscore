@@ -23,6 +23,7 @@
     { "pattern": "Bad%s?Dragon", "points": 20 },
     { "pattern": "e621", "points": 20 },
     { "pattern": "🔞", "points": 20 },
+    { "pattern": "🥵", "points": 20 },
 
     { "pattern": "Boykisser", "points": 15 },
 
@@ -67,6 +68,7 @@
     { "pattern": "Femboi", "points": 5 },
     { "pattern": "Femboy", "points": 5 },
     { "pattern": "femmy", "points": 5 },
+    { "pattern": "Fem girl", "points": 5 },
     { "pattern": "fmboy", "points": 5 },
     { "pattern": "Feminine%-Boy", "points": 5 },
     { "pattern": "Feminine%s?Boy", "points": 5 },
