@@ -28,6 +28,7 @@
     { "pattern": "Boykisser", "points": 15 },
 
     { "pattern": "Heart&s?Eyes", "points": 10 },
+    { "pattern": "Love Trance Eyes", "points": 10 },
 
     { "pattern": "Wedgie", "points": 9.5 },
     { "pattern": "Wedge%s?String", "points": 9.5 },
