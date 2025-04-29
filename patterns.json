@@ -9,7 +9,9 @@
     "abstract",
     "harness",
     "paratrooper",
-    "combat%s?maid"
+    "combat%s?maid",
+    "pouch%s?vest",
+    "infantry%s?kit"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
