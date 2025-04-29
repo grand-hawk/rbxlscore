@@ -36,6 +36,8 @@
     { "pattern": "Swim%s?suit", "points": 7 },
     { "pattern": "Body%s?suit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
+    { "pattern": "Pacifier", "points": 7 },
+    { "pattern": "Diaper", "points": 7 },
 
     { "pattern": "Dolphin%s?Short", "points": 6 },
     { "pattern": "DCUA", "points": 6 },
@@ -44,8 +46,6 @@
     { "pattern": "Milks", "points": 6 },
     { "pattern": "Milkie", "points": 6 },
 
-    { "pattern": "Pacifier", "points": 5 },
-    { "pattern": "Diaper", "points": 5 },
     { "pattern": "Fangirling", "points": 5 },
     { "pattern": "Bypass", "points": 5 },
     { "pattern": "Cow girl", "points": 5 },
