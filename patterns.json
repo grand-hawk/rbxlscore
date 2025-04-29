@@ -81,7 +81,6 @@
     { "pattern": "Cat%s?girl", "points": 3 },
     { "pattern": "Cat%s?boy", "points": 3 },
     { "pattern": "Turtle%s?Neck", "points": 3 },
-    { "pattern": "Belly", "points": 3 },
     { "pattern": "Smug", "points": 3 },
 
     { "pattern": "R6 Female", "points": 2 },
