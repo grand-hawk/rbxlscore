@@ -40,7 +40,6 @@
     { "pattern": "String", "points": 9.5 },
     { "pattern": "Latex", "points": 9.5 },
 
-    { "pattern": "Astolf?o?", "points": 8 },
     { "pattern": "Mommy", "points": 8 },
     { "pattern": "Mummy", "points": 8 },
     { "pattern": "Daddy", "points": 8 },
@@ -74,6 +73,7 @@
     { "pattern": "Pntyhse", "points": 6 },
 
     { "pattern": "Fangirling", "points": 5 },
+    { "pattern": "Astolf?o?", "points": 5 },
     { "pattern": "Femby", "points": 5 },
     { "pattern": "Femboi", "points": 5 },
     { "pattern": "Femboy", "points": 5 },
