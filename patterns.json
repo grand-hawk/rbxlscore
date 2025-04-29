@@ -101,7 +101,6 @@
     { "pattern": "Lovely", "points": 3 },
     { "pattern": "Ripped", "points": 3 },
     { "pattern": "Scars", "points": 3 },
-    { "pattern": "Maid", "points": 3 },
     { "pattern": "Cat%s?girl", "points": 3 },
     { "pattern": "Cat%s?boy", "points": 3 },
     { "pattern": "Smug", "points": 3 },
@@ -110,6 +109,8 @@
     { "pattern": "Barbie", "points": 3 },
     { "pattern": "Curve", "points": 3 },
     { "pattern": "Curvy", "points": 3 },
+
+    { "pattern": "Maid", "points": 2.5 },
 
     { "pattern": "Baddie", "points": 2 },
     { "pattern": "Bored", "points": 2 },
