@@ -112,6 +112,7 @@
     { "pattern": "Woman", "points": 0.5 },
     { "pattern": "Women", "points": 0.5 },
     { "pattern": "Female", "points": 0.5 },
-    { "pattern": "Neko", "points": 0.5 }
+    { "pattern": "Neko", "points": 0.5 },
+    { "pattern": "Shark", "points": 0.5 }
   ]
 }
