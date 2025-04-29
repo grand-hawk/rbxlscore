@@ -20,8 +20,9 @@
     { "pattern": "Onyx Luxe Body%s?suit", "points": 20 },
     { "pattern": "Meru", "points": 20 },
     { "pattern": "Goth girl companion", "points": 20 },
+    { "pattern": "Bad%s?Dragon", "points": 20 },
+    { "pattern": "e621", "points": 20 },
 
-    { "pattern": "e621", "points": 15 },
     { "pattern": "Boykisser", "points": 15 },
 
     { "pattern": "Heart&s?Eyes", "points": 10 },
@@ -32,7 +33,6 @@
     { "pattern": "String%s?Pants", "points": 9.5 },
     { "pattern": "String%s?Bikini", "points": 9.5 },
     { "pattern": "Bikini%s?String", "points": 9.5 },
-    { "pattern": "Bad%s?Dragon", "points": 9.5 },
 
     { "pattern": "Astolf?o?", "points": 8 },
     { "pattern": "Tongue", "points": 8 },
