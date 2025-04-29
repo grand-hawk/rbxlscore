@@ -96,10 +96,10 @@
     { "pattern": "Love", "points": 2 },
     { "pattern": "Thigh", "points": 2 },
     { "pattern": "Pompous", "points": 2 },
+    { "pattern": "Socks", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
-    { "pattern": "Socks", "points": 1.5 },
 
     { "pattern": "Pretty", "points": 0.5 },
     { "pattern": "Woman", "points": 0.5 },
