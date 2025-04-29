@@ -138,6 +138,8 @@
     { "pattern": "Women", "points": 0.5 },
     { "pattern": "Female", "points": 0.5 },
     { "pattern": "Neko", "points": 0.5 },
-    { "pattern": "Shark", "points": 0.5 }
+    { "pattern": "Shark", "points": 0.5 },
+    { "pattern": "Snep", "points": 0.5 },
+    { "pattern": "Leopard", "points": 0.5 }
   ]
 }
