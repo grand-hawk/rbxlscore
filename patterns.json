@@ -41,6 +41,8 @@
     { "pattern": "Thongs", "points": 10 },
     { "pattern": "Wedgie", "points": 10 },
     { "pattern": "Wedge", "points": 10 },
+    { "pattern": "Pacifier", "points": 10 },
+    { "pattern": "Diaper", "points": 10 },
 
     { "pattern": "String", "points": 9.5 },
     { "pattern": "Latex", "points": 9.5 },
@@ -57,8 +59,6 @@
     { "pattern": "Fur%s?suit", "points": 7 },
     { "pattern": "Turtle%s?neck%s?suit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
-    { "pattern": "Pacifier", "points": 7 },
-    { "pattern": "Diaper", "points": 7 },
     { "pattern": "Bypass", "points": 7 },
     { "pattern": "Glue", "points": 7 },
     { "pattern": "Cow girl", "points": 7 },
