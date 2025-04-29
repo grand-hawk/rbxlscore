@@ -90,11 +90,11 @@
     { "pattern": "Collar", "points": 5 },
     { "pattern": "Tummy", "points": 5 },
     { "pattern": "Hairy", "points": 5 },
+    { "pattern": "Crop", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
     { "pattern": "Cute Girl Shirt", "points": 4 },
-    { "pattern": "Crop", "points": 4 },
     { "pattern": "abs", "points": 4 },
     { "pattern": "Bell", "points": 4 },
     { "pattern": "Thigh", "points": 4 },
