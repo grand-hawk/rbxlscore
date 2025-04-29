@@ -70,6 +70,8 @@
     { "pattern": "Cow girl", "points": 7 },
     { "pattern": "Cow baby", "points": 7 },
     { "pattern": "Cow ears", "points": 7 },
+    { "pattern": "Ebony", "points": 7 },
+    { "pattern": "Ebonie", "points": 7 },
 
     { "pattern": "Dolphin%s?Short", "points": 6 },
     { "pattern": "DCUA", "points": 6 },
