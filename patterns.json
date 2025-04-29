@@ -50,6 +50,7 @@
     { "pattern": "Pacifier", "points": 7 },
     { "pattern": "Diaper", "points": 7 },
     { "pattern": "Bypass", "points": 7 },
+    { "pattern": "Glue", "points": 7 },
 
     { "pattern": "Dolphin%s?Short", "points": 6 },
     { "pattern": "DCUA", "points": 6 },
