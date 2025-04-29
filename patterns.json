@@ -75,7 +75,6 @@
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Fur%s?suit", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
-    { "pattern": "Body%s?Pillow", "points": 4 },
     { "pattern": "abs", "points": 4 },
     { "pattern": "Bell[^y]", "points": 4 },
     { "pattern": "Thigh", "points": 4 },
@@ -104,6 +103,8 @@
     { "pattern": "Socks", "points": 2 },
     { "pattern": "Warmers", "points": 2 },
     { "pattern": "Off%s?shoulder", "points": 2 },
+    { "pattern": "Body%s?Pillow", "points": 2 },
+    { "pattern": "Pillow", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
