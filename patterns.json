@@ -54,6 +54,7 @@
     { "pattern": "Body%s?suit", "points": 7 },
     { "pattern": "Bunny%s?suit", "points": 7 },
     { "pattern": "Fur%s?suit", "points": 7 },
+    { "pattern": "Turtle%s?neck%s?suit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
     { "pattern": "Pacifier", "points": 7 },
     { "pattern": "Diaper", "points": 7 },
@@ -144,7 +145,7 @@
     { "pattern": "Women R6", "points": 1.5 },
     { "pattern": "Woman R6", "points": 1.5 },
     { "pattern": "Fang", "points": 1.5 },
-    { "pattern": "Turtle%s?Neck", "points": 1.5 },
+    { "pattern": "Turtle%s?neck", "points": 1.5 },
 
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Love", "points": 1 },
