@@ -101,6 +101,8 @@
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
 
+    { "pattern": "Heart", "points": 1 },
+
     { "pattern": "Pretty", "points": 0.5 },
     { "pattern": "Woman", "points": 0.5 },
     { "pattern": "Women", "points": 0.5 },
