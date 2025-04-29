@@ -181,6 +181,11 @@
       "description": "Inappropiate crop tops",
       "points": 20,
       "specific": [17787238612]
+    },
+    {
+      "description": "Poor SFW reputation groups",
+      "points": 20,
+      "creators": [5903343]
     }
   ]
 }
