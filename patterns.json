@@ -64,7 +64,6 @@
     { "pattern": "Bikini", "points": 5 },
     { "pattern": "Shader", "points": 5 },
     { "pattern": "Collar", "points": 5 },
-    { "pattern": "Bell[^y]", "points": 5 },
 
     { "pattern": "Bunny%s?suit", "points": 4 },
     { "pattern": "Fish%s?net", "points": 4 },
@@ -73,6 +72,7 @@
     { "pattern": "Cropped Top", "points": 4 },
     { "pattern": "Body%s?Pillow", "points": 4 },
     { "pattern": "abs", "points": 4 },
+    { "pattern": "Bell[^y]", "points": 4 },
 
     { "pattern": "Lovely", "points": 3 },
     { "pattern": "Ripped", "points": 3 },
