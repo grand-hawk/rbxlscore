@@ -56,6 +56,9 @@
     { "pattern": "Diaper", "points": 7 },
     { "pattern": "Bypass", "points": 7 },
     { "pattern": "Glue", "points": 7 },
+    { "pattern": "Cow girl", "points": 7 },
+    { "pattern": "Cow baby", "points": 7 },
+    { "pattern": "Cow ears", "points": 7 },
 
     { "pattern": "Dolphin%s?Short", "points": 6 },
     { "pattern": "DCUA", "points": 6 },
@@ -71,9 +74,6 @@
     { "pattern": "Pntyhse", "points": 6 },
 
     { "pattern": "Fangirling", "points": 5 },
-    { "pattern": "Cow girl", "points": 5 },
-    { "pattern": "Cow baby", "points": 5 },
-    { "pattern": "Cow ears", "points": 5 },
     { "pattern": "Femby", "points": 5 },
     { "pattern": "Femboi", "points": 5 },
     { "pattern": "Femboy", "points": 5 },
