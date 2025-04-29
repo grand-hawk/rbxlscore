@@ -157,6 +157,7 @@
     { "pattern": "Snep", "points": 0.5 },
     { "pattern": "Leopard", "points": 0.5 },
     { "pattern": "Bunny", "points": 0.5 },
+    { "pattern": "Wolf", "points": 0.5 },
 
     {
       "description": "Inappropiate crop tops",
