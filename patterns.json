@@ -20,6 +20,8 @@
     { "pattern": "e621", "points": 15 },
     { "pattern": "Boykisser", "points": 15 },
 
+    { "pattern": "Heart&s?Eyes", "points": 10 },
+
     { "pattern": "Wedgie", "points": 9.5 },
     { "pattern": "Wedge%s?String", "points": 9.5 },
     { "pattern": "String%s?Set", "points": 9.5 },
