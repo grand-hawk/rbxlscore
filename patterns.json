@@ -108,6 +108,7 @@
     { "pattern": "Off%s?shoulder", "points": 2 },
     { "pattern": "Body%s?Pillow", "points": 2 },
     { "pattern": "Pillow", "points": 2 },
+    { "pattern": "Pick me", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
