@@ -33,6 +33,7 @@
     { "pattern": "female.*companion", "points": 20 },
     { "pattern": "waifu.*companion", "points": 20 },
     { "pattern": "Bad%s?Dragon", "points": 20 },
+    { "pattern": "dirty pop", "points": 20 },
     { "pattern": "621", "points": 20 },
     { "pattern": "🔞", "points": 20 },
     { "pattern": "🥵", "points": 20 },
