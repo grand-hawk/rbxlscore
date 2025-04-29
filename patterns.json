@@ -15,7 +15,8 @@
     "combat%s?warriors",
     "ellen%s?joe",
     "popped.*collar",
-    "crooked.*collar"
+    "crooked.*collar",
+    "Wolfcut"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
