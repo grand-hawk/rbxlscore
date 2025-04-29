@@ -16,7 +16,13 @@
     "ellen%s?joe",
     "popped.*collar",
     "crooked.*collar",
-    "Wolfcut"
+    "Wolfcut",
+    "paratrooper.*harness",
+    "military.*harness",
+    "maneuver.*harness",
+    "combat.*harness",
+    "tactical.*harness",
+    "pilot.*harness"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
@@ -98,6 +104,9 @@
     { "pattern": "Tummy", "points": 5 },
     { "pattern": "Hairy", "points": 5 },
     { "pattern": "Crop", "points": 5 },
+    { "pattern": "Bla?ck.*harness", "points": 5 },
+    { "pattern": "Bo?dy.*harness", "points": 5 },
+    { "pattern": "Silve?r.*harness", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
