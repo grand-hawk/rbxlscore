@@ -8,7 +8,8 @@
     "jeabs%s?ripped",
     "abstract",
     "harness",
-    "paratrooper"
+    "paratrooper",
+    "combat%s?maid"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
