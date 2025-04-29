@@ -122,7 +122,6 @@
     { "pattern": "Body%s?Pillow", "points": 2 },
     { "pattern": "Pillow", "points": 2 },
     { "pattern": "Pick me", "points": 2 },
-    { "pattern": "Turtle%s?Neck", "points": 2 },
     { "pattern": "Fur", "points": 2 },
     { "pattern": "Sergal", "points": 2 },
     { "pattern": "Paw", "points": 2 },
@@ -137,6 +136,7 @@
     { "pattern": "Women R6", "points": 1.5 },
     { "pattern": "Woman R6", "points": 1.5 },
     { "pattern": "Fang", "points": 1.5 },
+    { "pattern": "Turtle%s?Neck", "points": 1.5 },
 
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Love", "points": 1 },
