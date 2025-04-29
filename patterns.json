@@ -88,14 +88,13 @@
     { "pattern": "Shader", "points": 5 },
     { "pattern": "Shading", "points": 5 },
     { "pattern": "Collar", "points": 5 },
-    { "pattern": "Belly", "points": 5 },
     { "pattern": "Tummy", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
     { "pattern": "Crop", "points": 4 },
     { "pattern": "abs", "points": 4 },
-    { "pattern": "Bell[^y]", "points": 4 },
+    { "pattern": "Bell", "points": 4 },
     { "pattern": "Thigh", "points": 4 },
 
     { "pattern": "Lovely", "points": 3 },
@@ -135,6 +134,7 @@
 
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Love", "points": 1 },
+    { "pattern": "Belly", "points": 1 },
 
     { "pattern": "Pretty", "points": 0.5 },
     { "pattern": "Woman", "points": 0.5 },
