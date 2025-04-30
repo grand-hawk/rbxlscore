@@ -189,6 +189,7 @@
     { "pattern": "Wolf", "points": 1 },
     { "pattern": "Serval", "points": 1 },
     { "pattern": "Dragon", "points": 1 },
+    { "pattern": "Cow", "points": 1 },
 
     { "pattern": "Pretty", "points": 0.5 },
     { "pattern": "Woman", "points": 0.5 },
