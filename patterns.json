@@ -136,6 +136,8 @@
 
     { "pattern": "Maid", "points": 2.5 },
     { "pattern": "Skirt", "points": 2.5 },
+    { "pattern": "Piercing", "points": 2.5 },
+    { "pattern": "Pierce", "points": 2.5 },
 
     { "pattern": "Baddie", "points": 2 },
     { "pattern": "Bored", "points": 2 },
