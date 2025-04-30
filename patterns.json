@@ -164,6 +164,7 @@
     { "pattern": "Canine", "points": 2 },
     { "pattern": "Fennec", "points": 2 },
     { "pattern": "Skirt", "points": 2 },
+    { "pattern": "Baby", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
