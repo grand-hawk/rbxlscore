@@ -2,6 +2,7 @@
   "whiteList": [
     "Kitty%s?Body%s?suit",
     "Duolingo%s?Body%s?suit",
+    "Lobster.*Body%s?suit",
     "ripped%s?jeans",
     "ripped%s?pants",
     "pants%s?ripped",
