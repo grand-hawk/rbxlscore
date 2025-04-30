@@ -192,7 +192,9 @@
     {
       "description": "Inappropiate tops",
       "points": 20,
-      "specific": [17787238612, 18130050794, 18253231659, 18271420461]
+      "specific": [
+        17787238612, 18130050794, 18253231659, 18271420461, 106255423736884
+      ]
     },
     {
       "description": "Poor SFW reputation groups",
