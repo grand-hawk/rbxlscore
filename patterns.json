@@ -40,6 +40,7 @@
 
     { "pattern": "Boykisser", "points": 15 },
     { "pattern": "Puro", "points": 15 },
+    { "pattern": "Typh", "points": 15 },
 
     { "pattern": "Heart%s?Eye", "points": 10 },
     { "pattern": "Heart%s?Face", "points": 10 },
