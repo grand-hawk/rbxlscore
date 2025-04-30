@@ -108,7 +108,6 @@
     { "pattern": "Bikini", "points": 5 },
     { "pattern": "Shader", "points": 5 },
     { "pattern": "Shading", "points": 5 },
-    { "pattern": "Collar", "points": 5 },
     { "pattern": "Tummy", "points": 5 },
     { "pattern": "Hairy", "points": 5 },
     { "pattern": "Crop", "points": 5 },
@@ -125,6 +124,7 @@
     { "pattern": "Tongue", "points": 4 },
     { "pattern": "Buff", "points": 4 },
     { "pattern": "Chibi%s?Face", "points": 4 },
+    { "pattern": "Collar", "points": 4 },
 
     { "pattern": "Lovely", "points": 3 },
     { "pattern": "Ripped", "points": 3 },
