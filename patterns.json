@@ -156,6 +156,7 @@
     { "pattern": "Sergal", "points": 2 },
     { "pattern": "Paw", "points": 2 },
     { "pattern": "Muscle", "points": 2 },
+    { "pattern": "Proto", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
