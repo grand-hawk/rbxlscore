@@ -157,6 +157,7 @@
     { "pattern": "Paw", "points": 2 },
     { "pattern": "Muscle", "points": 2 },
     { "pattern": "Proto", "points": 2 },
+    { "pattern": "Fennec", "points": 2 },
     { "pattern": "Skirt", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
