@@ -86,6 +86,7 @@
     { "pattern": "Fish%s?net", "points": 6 },
     { "pattern": "Stockings", "points": 6 },
     { "pattern": "Navel", "points": 6 },
+    { "pattern": "Midriff", "points": 6 },
     { "pattern": "Pantyhose", "points": 6 },
     { "pattern": "Pntyhose", "points": 6 },
     { "pattern": "Pntyhse", "points": 6 },
