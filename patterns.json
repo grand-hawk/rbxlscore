@@ -128,6 +128,7 @@
     { "pattern": "Buff", "points": 4 },
     { "pattern": "Chibi%s?Face", "points": 4 },
     { "pattern": "Collar", "points": 4 },
+    { "pattern": "Wet", "points": 4 },
 
     { "pattern": "Lovely", "points": 3 },
     { "pattern": "Ripped", "points": 3 },
