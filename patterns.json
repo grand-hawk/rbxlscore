@@ -187,9 +187,9 @@
     { "pattern": "Fang", "points": 0.5 },
 
     {
-      "description": "Inappropiate crop tops",
+      "description": "Inappropiate tops",
       "points": 20,
-      "specific": [17787238612]
+      "specific": [17787238612, 18130050794, 18253231659, 18271420461]
     },
     {
       "description": "Poor SFW reputation groups",
