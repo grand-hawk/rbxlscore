@@ -30,7 +30,8 @@
     "tactical.*harness",
     "pilot.*harness",
     "hoodie.*strings",
-    "recurve"
+    "recurve",
+    "cowboy"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
