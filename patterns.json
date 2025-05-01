@@ -143,9 +143,9 @@
     { "pattern": "Curve", "points": 3 },
     { "pattern": "Curvy", "points": 3 },
     { "pattern": "Thigh", "points": 3 },
-    { "pattern": "Scalie", "points": 3 },
     { "pattern": "Proto", "points": 3 },
     { "pattern": "Paw", "points": 3 },
+    { "pattern": "Critter", "points": 3 },
     
     { "pattern": "Maid", "points": 2.5 },
     { "pattern": "Piercing", "points": 2.5 },
@@ -197,7 +197,8 @@
     { "pattern": "Wolf", "points": 0.5 },
     { "pattern": "Serval", "points": 0.5 },
     { "pattern": "Dragon", "points": 0.5 },
-    { "pattern": "Critter", "points": 3 },
+    { "pattern": "Scalie", "points": 0.5 },
+  
 
     {
       "description": "Inappropiate tops",
