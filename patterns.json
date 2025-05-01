@@ -18,7 +18,7 @@
     "ellen%s?joe",
     "popped.*collar",
     "crooked.*collar",
-    "cowlick"
+    "cowlick",
     "shirt.*collar",
     "fur.*collar",
     "Wolf%s?cut",
@@ -146,7 +146,7 @@
     { "pattern": "Proto", "points": 3 },
     { "pattern": "Paw", "points": 3 },
     { "pattern": "Critter", "points": 3 },
-    
+
     { "pattern": "Maid", "points": 2.5 },
     { "pattern": "Piercing", "points": 2.5 },
     { "pattern": "Pierce", "points": 2.5 },
@@ -198,7 +198,6 @@
     { "pattern": "Serval", "points": 0.5 },
     { "pattern": "Dragon", "points": 0.5 },
     { "pattern": "Scalie", "points": 0.5 },
-  
 
     {
       "description": "Inappropiate tops",
