@@ -213,6 +213,11 @@
       ]
     },
     {
+      "description": "Bypassed content",
+      "points": 20,
+      "specific": [122942381860623]
+    },
+    {
       "description": "Poor SFW reputation groups",
       "points": 20,
       "creators": [5903343, 32536194]
