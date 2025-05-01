@@ -146,7 +146,7 @@
     { "pattern": "Critter", "points": 3 },
     { "pattern": "Proto", "points": 3 },
     { "pattern": "Paw", "points": 3 },
-
+    
     { "pattern": "Maid", "points": 2.5 },
     { "pattern": "Piercing", "points": 2.5 },
     { "pattern": "Pierce", "points": 2.5 },
@@ -164,6 +164,7 @@
     { "pattern": "Muscle", "points": 2 },
     { "pattern": "Skirt", "points": 2 },
     { "pattern": "Baby", "points": 2 },
+    { "pattern": "Furr", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
@@ -178,7 +179,6 @@
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Love", "points": 1 },
     { "pattern": "Belly", "points": 1 },
-    { "pattern": "Fur", "points": 1 },
     { "pattern": "Cow", "points": 1 },
 
     { "pattern": "Pretty", "points": 0.5 },
