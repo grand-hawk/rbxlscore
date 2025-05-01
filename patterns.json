@@ -173,6 +173,7 @@
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
     { "pattern": "Gauze", "points": 1.5 },
+    { "pattern": "Wraps", "points": 1.5 },
     { "pattern": "R6 Female", "points": 1.5 },
     { "pattern": "Female R6", "points": 1.5 },
     { "pattern": "R6 Women", "points": 1.5 },
