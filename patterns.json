@@ -144,7 +144,6 @@
     { "pattern": "Curvy", "points": 3 },
     { "pattern": "Thigh", "points": 3 },
     { "pattern": "Scalie", "points": 3 },
-    { "pattern": "Critter", "points": 3 },
     { "pattern": "Proto", "points": 3 },
     { "pattern": "Paw", "points": 3 },
     
@@ -198,6 +197,7 @@
     { "pattern": "Wolf", "points": 0.5 },
     { "pattern": "Serval", "points": 0.5 },
     { "pattern": "Dragon", "points": 0.5 },
+    { "pattern": "Critter", "points": 3 },
 
     {
       "description": "Inappropiate tops",
