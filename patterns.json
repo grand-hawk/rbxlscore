@@ -54,9 +54,6 @@
     { "pattern": "Typh", "points": 15 },
     { "pattern": "Mimi", "points": 15 },
 
-    { "pattern": "Heart%s?Eye", "points": 10 },
-    { "pattern": "Heart%s?Face", "points": 10 },
-    { "pattern": "Love Trance Eye", "points": 10 },
     { "pattern": "Thong", "points": 10 },
     { "pattern": "Wedgi?e", "points": 10 },
     { "pattern": "Pacifier", "points": 10 },
@@ -67,7 +64,6 @@
     { "pattern": "Latex", "points": 10 },
     { "pattern": "Womb", "points": 10 },
     { "pattern": "Hairy", "points": 10 },
-
 
     { "pattern": "String", "points": 9.5 },
     { "pattern": "🥵", "points": 9.5 },
@@ -109,6 +105,9 @@
     { "pattern": "Bla?ck.*harness", "points": 7 },
     { "pattern": "Bo?dy.*harness", "points": 7 },
     { "pattern": "Silve?r.*harness", "points": 7 },
+    { "pattern": "Heart%s?Eye", "points": 7 },
+    { "pattern": "Heart%s?Face", "points": 7 },
+    { "pattern": "Love Trance Eye", "points": 7 },
 
     { "pattern": "Dolphin%s?Short", "points": 6 },
     { "pattern": "Stockings", "points": 6 },
@@ -126,9 +125,7 @@
     { "pattern": "Shader", "points": 5 },
     { "pattern": "Shading", "points": 5 },
     { "pattern": "Tummy", "points": 5 },
-
     { "pattern": "Crop", "points": 5 },
-
     { "pattern": "Mummy", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
