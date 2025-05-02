@@ -173,6 +173,7 @@
     { "pattern": "Baby", "points": 2 },
     { "pattern": "Furr", "points": 2 },
     { "pattern": "Nardoragon", "points": 2 },
+    { "pattern": "God+n?ess", "points": 2 },
 
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Bandage", "points": 1.5 },
