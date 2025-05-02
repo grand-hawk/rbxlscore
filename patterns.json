@@ -183,6 +183,7 @@
     { "pattern": "Women R6", "points": 1.5 },
     { "pattern": "Woman R6", "points": 1.5 },
     { "pattern": "Turtle%s?neck", "points": 1.5 },
+    { "pattern": "Hot", "points": 1.5 },
 
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Love", "points": 1 },
