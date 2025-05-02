@@ -32,7 +32,8 @@
     "pilot.*harness",
     "hoodie.*strings",
     "recurve",
-    "cowboy"
+    "cowboy",
+    "hair%s?string"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
