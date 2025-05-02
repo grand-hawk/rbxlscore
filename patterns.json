@@ -226,9 +226,15 @@
       "specific": [122942381860623, 18864399511]
     },
     {
-      "description": "Poor SFW reputation groups (20)",
+      "description": "Poor SFW reputation groups",
       "points": 20,
       "creators": [5903343, 32536194]
+    },
+    {
+      "description": "Poor SFW reputation clothing groups",
+      "points": 20,
+      "creators": [5119971],
+      "onlyClothing": true
     }
   ]
 }
