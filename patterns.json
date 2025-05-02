@@ -213,6 +213,7 @@
     { "pattern": "Scalie", "points": 0.5 },
     { "pattern": "Fox", "points": 0.5 },
     { "pattern": "Moth", "points": 0.5 },
+    { "pattern": "Elf", "points": 0.5 },
 
     {
       "description": "Inappropiate tops",
