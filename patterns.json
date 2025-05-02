@@ -159,6 +159,7 @@
     { "pattern": "Paw", "points": 3 },
     { "pattern": "Critter", "points": 3 },
     { "pattern": "Furr", "points": 3 },
+    { "pattern": "Belly", "points": 3 },
     { "pattern": "Muscle", "points": 3 },
 
     { "pattern": "Maid", "points": 2.5 },
@@ -195,7 +196,6 @@
 
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Love", "points": 1 },
-    { "pattern": "Belly", "points": 1 },
     { "pattern": "Cow", "points": 1 },
     { "pattern": "Moo", "points": 1 },
     { "pattern": "Godly", "points": 1 },
