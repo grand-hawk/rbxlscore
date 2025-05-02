@@ -194,6 +194,7 @@
     { "pattern": "Belly", "points": 1 },
     { "pattern": "Cow", "points": 1 },
     { "pattern": "Moo", "points": 1 },
+    { "pattern": "Godly", "points": 1 },
 
     { "pattern": "y2k", "points": 0.5 },
     { "pattern": "Pretty", "points": 0.5 },
