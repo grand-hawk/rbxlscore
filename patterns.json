@@ -68,7 +68,6 @@
     { "pattern": "🥵", "points": 9.5 },
 
     { "pattern": "Mommy", "points": 8 },
-    { "pattern": "Mummy", "points": 8 },
     { "pattern": "Daddy", "points": 8 },
     { "pattern": "Good%s?boy", "points": 8 },
     { "pattern": "Good%s?girl", "points": 8 },
@@ -126,6 +125,7 @@
     { "pattern": "Bla?ck.*harness", "points": 5 },
     { "pattern": "Bo?dy.*harness", "points": 5 },
     { "pattern": "Silve?r.*harness", "points": 5 },
+    { "pattern": "Mummy", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
