@@ -163,7 +163,6 @@
 
     { "pattern": "Maid", "points": 2.5 },
     { "pattern": "Piercing", "points": 2.5 },
-    { "pattern": "Pierce", "points": 2.5 },
 
     { "pattern": "Baddie", "points": 2 },
     { "pattern": "Bored", "points": 2 },
@@ -193,8 +192,6 @@
     { "pattern": "Woman R6", "points": 1.5 },
     { "pattern": "Hot", "points": 1.5 },
     { "pattern": "Dress", "points": 1.5 },
-    { "pattern": "Snep", "points": 1.5 },
-    { "pattern": "Leopard", "points": 1.5 },
 
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Love", "points": 1 },
@@ -216,6 +213,8 @@
     { "pattern": "Shark", "points": 0.5 },
     { "pattern": "Bunny", "points": 0.5 },
     { "pattern": "Wolf", "points": 0.5 },
+    { "pattern": "Snep", "points": 0.5 },
+    { "pattern": "Leopard", "points": 0.5 },
     { "pattern": "Serval", "points": 0.5 },
     { "pattern": "Dragon", "points": 0.5 },
     { "pattern": "Scalie", "points": 0.5 },
