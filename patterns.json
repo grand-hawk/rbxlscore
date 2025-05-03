@@ -130,6 +130,7 @@
     { "pattern": "Tummy", "points": 5 },
     { "pattern": "Crop", "points": 5 },
     { "pattern": "Mummy", "points": 5 },
+    { "pattern": "Leota.*d", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
