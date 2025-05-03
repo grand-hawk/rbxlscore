@@ -73,6 +73,8 @@
     { "pattern": "🥵", "points": 9.5 },
     { "pattern": "Bunny%s?Girl", "points": 9.5 },
 
+    { "pattern": "Astolf?o?", "points": 9 },
+    
     { "pattern": "Mommy", "points": 8 },
     { "pattern": "Daddy", "points": 8 },
     { "pattern": "Good%s?boy", "points": 8 },
@@ -82,7 +84,6 @@
     { "pattern": "Milker", "points": 8 },
     { "pattern": "Milks", "points": 8 },
     { "pattern": "Milkie", "points": 8 },
-    { "pattern": "Astolf?o?", "points": 8 },
     { "pattern": "Femby", "points": 8 },
     { "pattern": "Femboi", "points": 8 },
     { "pattern": "Femboy", "points": 8 },
