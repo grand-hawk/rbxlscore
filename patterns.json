@@ -34,7 +34,8 @@
     "string.*hoodie",
     "recurve",
     "cowboy",
-    "hair%s?string"
+    "hair%s?string",
+    "headdress"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
