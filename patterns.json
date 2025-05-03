@@ -62,6 +62,7 @@
     { "pattern": "Wedgi?e", "points": 10 },
     { "pattern": "Pacifier", "points": 10 },
     { "pattern": "Diaper", "points": 10 },
+    { "pattern": "pamper", "points": 10 },
     { "pattern": "Swim%s?suit", "points": 10 },
     { "pattern": "Bunny%s?suit", "points": 10 },
     { "pattern": "Fur%s?suit", "points": 10 },
