@@ -185,12 +185,6 @@
     { "pattern": "Bandage", "points": 1.5 },
     { "pattern": "Gauze", "points": 1.5 },
     { "pattern": "Wraps", "points": 1.5 },
-    { "pattern": "R6 Female", "points": 1.5 },
-    { "pattern": "Female R6", "points": 1.5 },
-    { "pattern": "R6 Women", "points": 1.5 },
-    { "pattern": "R6 Woman", "points": 1.5 },
-    { "pattern": "Women R6", "points": 1.5 },
-    { "pattern": "Woman R6", "points": 1.5 },
     { "pattern": "Hot", "points": 1.5 },
     { "pattern": "Dress", "points": 1.5 },
 
@@ -202,9 +196,6 @@
 
     { "pattern": "y2k", "points": 0.5 },
     { "pattern": "Pretty", "points": 0.5 },
-    { "pattern": "Woman", "points": 0.5 },
-    { "pattern": "Women", "points": 0.5 },
-    { "pattern": "Female", "points": 0.5 },
     { "pattern": "Tatt?oo", "points": 0.5 },
     { "pattern": "Fang", "points": 0.5 },
     { "pattern": "Canine", "points": 0.5 },
