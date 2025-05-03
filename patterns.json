@@ -198,10 +198,10 @@
     { "pattern": "Moo", "points": 1 },
     { "pattern": "Godly", "points": 1 },
     { "pattern": "Lovely", "points": 1 },
+    { "pattern": "Tatt?oo", "points": 1 },
 
     { "pattern": "y2k", "points": 0.5 },
     { "pattern": "Pretty", "points": 0.5 },
-    { "pattern": "Tatt?oo", "points": 0.5 },
     { "pattern": "Fang", "points": 0.5 },
     { "pattern": "Canine", "points": 0.5 },
     { "pattern": "Fennec", "points": 0.5 },
