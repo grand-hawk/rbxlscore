@@ -146,7 +146,6 @@
     { "pattern": "Collar", "points": 4 },
     { "pattern": "Wet", "points": 4 },
 
-    { "pattern": "Lovely", "points": 3 },
     { "pattern": "Ripped", "points": 3 },
     { "pattern": "Pick me", "points": 3 },
     { "pattern": "Scars", "points": 3 },
@@ -192,11 +191,11 @@
     { "pattern": "Dress", "points": 1.5 },
 
     { "pattern": "Heart", "points": 1 },
-    { "pattern": "Love", "points": 1 },
     { "pattern": "Bored", "points": 1 },
     { "pattern": "Cow", "points": 1 },
     { "pattern": "Moo", "points": 1 },
     { "pattern": "Godly", "points": 1 },
+    { "pattern": "Lovely", "points": 1 },
 
     { "pattern": "y2k", "points": 0.5 },
     { "pattern": "Pretty", "points": 0.5 },
