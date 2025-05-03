@@ -120,11 +120,11 @@
     { "pattern": "Pantyhose", "points": 6 },
     { "pattern": "Pntyhose", "points": 6 },
     { "pattern": "Pntyhse", "points": 6 },
-    { "pattern": "Tight", "points": 6 },
     { "pattern": "Bikini", "points": 6 },
 
     { "pattern": "Fangirling", "points": 5 },
     { "pattern": "Fish%s?net", "points": 5 },
+    { "pattern": "Tight", "points": 5 },
     { "pattern": "Feminine", "points": 5 },
     { "pattern": "Tomboy", "points": 5 },
     { "pattern": "Choker", "points": 5 },
