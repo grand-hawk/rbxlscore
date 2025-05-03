@@ -52,7 +52,6 @@
     { "pattern": "2 seater", "points": 20 },
     { "pattern": "futa", "points": 20 },
     { "pattern": "mu.?r%s?suit", "points": 20 },
-    { "pattern": "dnyamic%s?head", "points": 20 },
 
     { "pattern": "Boykisser", "points": 15 },
     { "pattern": "Puro", "points": 15 },
@@ -76,6 +75,7 @@
 
     { "pattern": "Astolf?o?", "points": 9 },
     { "pattern": "🥵", "points": 9 },
+    { "pattern": "dnyamic%s?head", "points": 9 },
     
     { "pattern": "Mommy", "points": 8 },
     { "pattern": "Daddy", "points": 8 },
