@@ -170,7 +170,6 @@
     { "pattern": "Piercing", "points": 2.5 },
 
     { "pattern": "Baddie", "points": 2 },
-    { "pattern": "Bored", "points": 2 },
     { "pattern": "Pompous", "points": 2 },
     { "pattern": "Turtle%s?neck", "points": 2 },
     { "pattern": "Socks", "points": 2 },
@@ -194,6 +193,7 @@
 
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Love", "points": 1 },
+    { "pattern": "Bored", "points": 1 },
     { "pattern": "Cow", "points": 1 },
     { "pattern": "Moo", "points": 1 },
     { "pattern": "Godly", "points": 1 },
