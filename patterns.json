@@ -30,7 +30,8 @@
     "combat.*harness",
     "tactical.*harness",
     "pilot.*harness",
-    "hoodie.*strings",
+    "hoodie.*string",
+    "string.*hoodie",
     "recurve",
     "cowboy",
     "hair%s?string"
