@@ -140,6 +140,7 @@
     { "pattern": "Crop", "points": 5 },
     { "pattern": "Mummy", "points": 5 },
     { "pattern": "Leota.*d", "points": 5 },
+    { "pattern": "Maid", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
@@ -171,7 +172,6 @@
     { "pattern": "Belly", "points": 3 },
     { "pattern": "Muscle", "points": 3 },
 
-    { "pattern": "Maid", "points": 2.5 },
     { "pattern": "Piercing", "points": 2.5 },
 
     { "pattern": "Baddie", "points": 2 },
