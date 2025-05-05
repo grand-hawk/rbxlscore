@@ -13,6 +13,7 @@
     "string%saura",
     "shader%ssunglasses",
     "typhoon",
+    "buffalo.*belt",
     "backpack",
     "draw%s?string",
     "microphone",
