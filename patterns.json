@@ -236,6 +236,11 @@
       ]
     },
     {
+      "description": "Inappropiate UGC",
+      "points": 20,
+      "specific": [17825976653, 17825976297]
+    },
+    {
       "description": "Bypassed content",
       "points": 20,
       "specific": [122942381860623, 18864399511]
