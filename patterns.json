@@ -38,7 +38,10 @@
     "recurve",
     "cowboy",
     "hair%s?string",
-    "headdress"
+    "headdress",
+    "cheestring",
+    "cheese.*string",
+    "cargo%s?shorts"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
@@ -81,7 +84,7 @@
     { "pattern": "Astolf?o?", "points": 9 },
     { "pattern": "🥵", "points": 9 },
     { "pattern": "dnyamic%s?head", "points": 9 },
-    
+
     { "pattern": "Mommy", "points": 8 },
     { "pattern": "Daddy", "points": 8 },
     { "pattern": "Good%s?boy", "points": 8 },
@@ -227,7 +230,8 @@
       "description": "Inappropiate tops",
       "points": 20,
       "specific": [
-        17787238612, 18130050794, 18253231659, 18271420461, 106255423736884, 87782555304510
+        17787238612, 18130050794, 18253231659, 18271420461, 106255423736884,
+        87782555304510
       ]
     },
     {
