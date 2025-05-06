@@ -147,7 +147,6 @@
     { "pattern": "Crop", "points": 5 },
     { "pattern": "Mummy", "points": 5 },
     { "pattern": "Leota.*d", "points": 5 },
-    { "pattern": "Maid", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
@@ -161,6 +160,7 @@
     { "pattern": "Wet", "points": 4 },
 
     { "pattern": "Ripped", "points": 3 },
+    { "pattern": "Maid", "points": 3 },
     { "pattern": "Pick me", "points": 3 },
     { "pattern": "Scars", "points": 3 },
     { "pattern": "Cat%s?girl", "points": 3 },
