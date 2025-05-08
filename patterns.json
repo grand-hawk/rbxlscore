@@ -127,7 +127,6 @@
     { "pattern": "Heart%s?Eye", "points": 7 },
     { "pattern": "Heart%s?Face", "points": 7 },
     { "pattern": "Love Trance Eye", "points": 7 },
-    { "pattern": "Slit", "points": 7 },
 
     { "pattern": "Dolphin%s?Short", "points": 6 },
     { "pattern": "Stockings", "points": 6 },
@@ -148,6 +147,7 @@
     { "pattern": "Crop", "points": 5 },
     { "pattern": "Mummy", "points": 5 },
     { "pattern": "Leota.*d", "points": 5 },
+    { "pattern": "Slit", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
