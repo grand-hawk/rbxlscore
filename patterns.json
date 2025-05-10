@@ -64,6 +64,7 @@
     { "pattern": "futa", "points": 20 },
     { "pattern": "mu.?r%s?suit", "points": 20 },
     { "pattern": "muzzle", "points": 20 },
+    { "pattern": "ashley%s?graves", "points": 20 },
 
     { "pattern": "Boykisser", "points": 15 },
     { "pattern": "Puro", "points": 15 },
