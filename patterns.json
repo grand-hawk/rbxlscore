@@ -245,26 +245,26 @@
       ]
     },
     {
-      "description": "Poor SFW reputation groups (20)",
+      "description": "Poor SFW reputation creators (20)",
       "points": 20,
       "creators": [
         5903343, 32536194, 35422015, 34610460, 14510504, 34390160, 8049908,
-        698668915, 35732284, 16061470, 35231050, 16159109, 7901851
+        698668915, 35732284, 16061470, 35231050, 16159109, 7901851, 401989564
       ]
     },
     {
-      "description": "Poor SFW reputation groups (8)",
+      "description": "Poor SFW reputation creators (8)",
       "points": 8,
       "creators": [1311117961, 34221558, 17040209]
     },
     {
-      "description": "Poor SFW reputation clothing groups",
+      "description": "Poor SFW reputation clothing creators",
       "points": 20,
       "creators": [10832235, 8080203],
       "onlyClothing": true
     },
     {
-      "description": "Poor SFW reputation clothing groups (9.5)",
+      "description": "Poor SFW reputation clothing creators (9.5)",
       "points": 9.5,
       "creators": [5119971],
       "onlyClothing": true
