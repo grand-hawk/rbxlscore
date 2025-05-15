@@ -83,11 +83,11 @@
     { "pattern": "Latex", "points": 10 },
     { "pattern": "Womb", "points": 10 },
     { "pattern": "Hairy", "points": 10 },
+    { "pattern": "Astolf?o?", "points": 10 },
 
     { "pattern": "String", "points": 9.5 },
     { "pattern": "Bunny%s?Girl", "points": 9.5 },
 
-    { "pattern": "Astolf?o?", "points": 9 },
     { "pattern": "🥵", "points": 9 },
     { "pattern": "dynamic%s?head", "points": 9 },
 
@@ -236,17 +236,13 @@
     { "pattern": "Hyena", "points": 0.5 },
 
     {
-      "description": "Inappropiate tops",
+      "description": "Inappropiate clothing",
       "points": 20,
       "specific": [
         17787238612, 18130050794, 18253231659, 18271420461, 106255423736884,
-        87782555304510, 6827076185, 7690030498
+        87782555304510, 6827076185, 7690030498, 11181115146, 122942381860623,
+        18864399511
       ]
-    },
-    {
-      "description": "Bypassed content",
-      "points": 20,
-      "specific": [122942381860623, 18864399511]
     },
     {
       "description": "Poor SFW reputation groups (20)",
