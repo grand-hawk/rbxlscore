@@ -215,6 +215,7 @@
     { "pattern": "Tatt?oo", "points": 1 },
     { "pattern": "Shorts", "points": 1 },
     { "pattern": "Shark", "points": 1 },
+    { "pattern": "Poofy", "points": 1 },
 
     { "pattern": "y2k", "points": 0.5 },
     { "pattern": "Pretty", "points": 0.5 },
