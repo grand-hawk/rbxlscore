@@ -151,6 +151,7 @@
     { "pattern": "Leota.*d", "points": 5 },
     { "pattern": "Slit", "points": 5 },
     { "pattern": "Tatsumaki", "points": 5 },
+    { "pattern": "Saber Alter ", "points": 5 },
 
     { "pattern": "Crop%s?Top", "points": 4 },
     { "pattern": "Cropped Top", "points": 4 },
