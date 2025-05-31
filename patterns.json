@@ -121,6 +121,7 @@
     { "pattern": "Cow baby", "points": 7 },
     { "pattern": "Cow ears", "points": 7 },
     { "pattern": "Cow['\"]s ears", "points": 7 },
+    { "pattern": "Moo cow", "points": 7 },
     { "pattern": "Ebony", "points": 7 },
     { "pattern": "Ebonie", "points": 7 },
     { "pattern": "Bla?ck.*harness", "points": 7 },
