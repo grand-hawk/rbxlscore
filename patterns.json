@@ -221,6 +221,7 @@
     { "pattern": "Shorts", "points": 1 },
     { "pattern": "Shark", "points": 1 },
     { "pattern": "Poofy", "points": 1 },
+    { "pattern": "Fluff", "points": 1 }, 
 
     { "pattern": "y2k", "points": 0.5 },
     { "pattern": "Pretty", "points": 0.5 },
@@ -240,6 +241,7 @@
     { "pattern": "Elf", "points": 0.5 },
     { "pattern": "Raptor", "points": 0.5 },
     { "pattern": "Hyena", "points": 0.5 },
+    { "pattern": "Zebra", "points": 0.5 },
 
     {
       "description": "Inappropiate clothing",
