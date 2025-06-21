@@ -115,6 +115,7 @@
     { "pattern": "Turtle%s?neck%s?suit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
     { "pattern": "Bypass", "points": 7 },
+    { "pattern": "Invisible", "points": 7 },
     { "pattern": "Glue", "points": 7 },
     { "pattern": "Navel", "points": 7 },
     { "pattern": "Midriff", "points": 7 },
