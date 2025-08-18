@@ -73,7 +73,8 @@
     { "pattern": "Puro", "points": 15 },
     { "pattern": "Typh", "points": 15 },
     { "pattern": "Mimi", "points": 15 },
-
+    
+    { "pattern": "Tiger%s?Shark", "points": 10 },
     { "pattern": "Thong", "points": 10 },
     { "pattern": "Wedgi?e", "points": 10 },
     { "pattern": "Pacifier", "points": 10 },
