@@ -74,7 +74,6 @@
     { "pattern": "Typh", "points": 15 },
     { "pattern": "Mimi", "points": 15 },
     
-    { "pattern": "Tiger%s?Shark", "points": 10 },
     { "pattern": "Thong", "points": 10 },
     { "pattern": "Wedgi?e", "points": 10 },
     { "pattern": "Pacifier", "points": 10 },
@@ -114,6 +113,7 @@
     { "pattern": "fmboy", "points": 8 },
 
     { "pattern": "Body%s?suit", "points": 7.5 },
+    { "pattern": "Tiger%s?Shark", "points": 7.5 },
 
     { "pattern": "Turtle%s?neck%s?suit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
