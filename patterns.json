@@ -73,7 +73,7 @@
     { "pattern": "Puro", "points": 15 },
     { "pattern": "Typh", "points": 15 },
     { "pattern": "Mimi", "points": 15 },
-    
+
     { "pattern": "Thong", "points": 10 },
     { "pattern": "Wedgi?e", "points": 10 },
     { "pattern": "Pacifier", "points": 10 },
@@ -153,15 +153,13 @@
     { "pattern": "Shader", "points": 5 },
     { "pattern": "Shading", "points": 5 },
     { "pattern": "Tummy", "points": 5 },
-    { "pattern": "Crop", "points": 5 },
     { "pattern": "Mummy", "points": 5 },
     { "pattern": "Leota.*d", "points": 5 },
     { "pattern": "Slit", "points": 5 },
     { "pattern": "Tatsumaki", "points": 5 },
     { "pattern": "Saber Alter ", "points": 5 },
 
-    { "pattern": "Crop%s?Top", "points": 4 },
-    { "pattern": "Cropped Top", "points": 4 },
+    { "pattern": "Crop", "points": 4 },
     { "pattern": "Cute Girl Shirt", "points": 4 },
     { "pattern": "abs", "points": 4 },
     { "pattern": "Bell", "points": 4 },
@@ -207,7 +205,8 @@
     { "pattern": "Sergal", "points": 2 },
     { "pattern": "Skirt", "points": 2 },
     { "pattern": "Baby", "points": 2 },
-
+    { "pattern": "Crop%s?Top", "points": 2 },
+    { "pattern": "Cropped Top", "points": 2 },
     { "pattern": "Nardoragon", "points": 2 },
     { "pattern": "God+n?ess", "points": 2 },
 
