@@ -47,7 +47,8 @@
     "cheestring",
     "cheese.*string",
     "cargo%s?shorts",
-    "wedge%s?head"
+    "wedge%s?head",
+    "wardaddy"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
