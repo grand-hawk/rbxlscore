@@ -114,7 +114,6 @@
     { "pattern": "fmboy", "points": 8 },
 
     { "pattern": "Body%s?suit", "points": 7.5 },
-    { "pattern": "Tiger%s?Shark", "points": 7.5 },
 
     { "pattern": "Turtle%s?neck%s?suit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
@@ -222,6 +221,7 @@
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Bored", "points": 1 },
     { "pattern": "Cow", "points": 1 },
+    { "pattern": "Tiger%s?Shark", "points": 1 },
     { "pattern": "Moo", "points": 1 },
     { "pattern": "Godly", "points": 1 },
     { "pattern": "Lovely", "points": 1 },
