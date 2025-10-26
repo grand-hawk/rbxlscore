@@ -192,6 +192,7 @@
     { "pattern": "Omaneko", "points": 3 },
     { "pattern": "Sprigatito", "points": 3 },
     { "pattern": "Sylveon", "points": 3 },
+    { "pattern": "Tiger%s?Shark", "points": 3 },
 
     { "pattern": "Piercing", "points": 2.5 },
 
@@ -221,7 +222,6 @@
     { "pattern": "Heart", "points": 1 },
     { "pattern": "Bored", "points": 1 },
     { "pattern": "Cow", "points": 1 },
-    { "pattern": "Tiger%s?Shark", "points": 1 },
     { "pattern": "Moo", "points": 1 },
     { "pattern": "Godly", "points": 1 },
     { "pattern": "Lovely", "points": 1 },
