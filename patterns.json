@@ -286,6 +286,11 @@
       "points": 9.5,
       "creators": [5119971, 35339013],
       "onlyClothing": true
+    },
+    {
+      "description": "Controversial items",
+      "points": 10,
+      "specific": [6390393392]
     }
   ]
 }
